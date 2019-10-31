@@ -33,5 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
         rvMakanan.setAdapter(MakananAdapter);
         rvMakanan.setLayoutManager(new LinearLayoutManager(this));
+
     }
 }
